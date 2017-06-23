@@ -4,7 +4,7 @@ def n_neg(seq):
     """Number of negative residues a protein sequence"""
 
     # Convert sequence to upper case
-    seq = seq.upper()
+    #seq = seq.upper()
 
     # Check for a valid sequence
     for aa in seq:
